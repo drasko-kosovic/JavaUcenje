@@ -47,5 +47,8 @@ public class Car implements IVozila {
 
         return brzina;
     }
+    public static void PrintSum(int broj1, int broj2){
+        System.out.println("ukupno je " +broj1*broj2);
+    }
 
 }

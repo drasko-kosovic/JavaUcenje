@@ -2,6 +2,8 @@ package com.company;
 
 public class Main {
     private static String bojaNova="zuta";
+
+
     public static void main(String[] args) {
 	    Car porse=new Car("putnicki","crna");
 	    porse.setBoja("zelena");
@@ -15,7 +17,11 @@ public class Main {
         System.out.println("Boja Fiata je "+ fiat.getBoja());
         Car golf=new Car();
         System.out.println("Brzina golfa je sada  "+golf.Brzina(30));
-
+        Autobus autobus =new Autobus("javno",4,100);
+        System.out.println(autobus.toString());
+        System.out.println(autobus.getVrsta_vozila());
+        System.out.println(autobus.Stani());
+         Car.PrintSum(4,5);
 
     }
 
