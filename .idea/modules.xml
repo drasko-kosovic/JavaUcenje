@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaUcenje.iml" filepath="$PROJECT_DIR$/JavaUcenje.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaUcenje.iml" filepath="$PROJECT_DIR$/.idea/JavaUcenje.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Klase/Klase.iml" filepath="$PROJECT_DIR$/Klase/Klase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kompozicija/Kompozicija.iml" filepath="$PROJECT_DIR$/Kompozicija/Kompozicija.iml" />
     </modules>
   </component>
 </project>
